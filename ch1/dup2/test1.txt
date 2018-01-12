@@ -1,0 +1,4 @@
+this is test1
+this is a duplicate line
+this is also a duplicate line
+last line of test1
